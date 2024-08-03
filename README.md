@@ -22,8 +22,8 @@ Bu proje, muhasebe süreçlerinde yaşanan zorlukları gidermek için tasarland�
 
 Projenin veritabanı yapısı aşağıdaki gibidir:
 
-![Veritabanı Diyagramı](diagram.png)
-![Veritabanı Diyagramı](diagram2.png)
+![Veritabanı Diyagramı](diagram.PNG)
+![Veritabanı Diyagramı](diagram2.PNG)
 
 
 
