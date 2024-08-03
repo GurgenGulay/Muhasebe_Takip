@@ -15,7 +15,6 @@ Bu proje, muhasebe süreçlerinde yaşanan zorlukları gidermek için tasarland�
 - **Şirket Bilgileri Yönetimi:** Şirket bilgilerini kaydetme ve yönetme.
 - **Çalışan Bilgileri Yönetimi:** Çalışan bilgilerini kaydetme ve yönetme.
 - **Beyannameler ve Bildirimler:** Beyannamelerin son tarihlerini takip etme ve hatırlatma.
-- **Kullanıcı Dostu Arayüz:** Kullanıcıların bilgileri kolayca girebileceği ve görüntüleyebileceği bir arayüz.
 
 
 ## Veritabanı Diyagramı
