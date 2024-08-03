@@ -22,23 +22,9 @@ Bu proje, muhasebe süreçlerinde yaşanan zorlukları gidermek için tasarland�
 
 Projenin veritabanı yapısı aşağıdaki gibidir:
 
-![Veritabanı Diyagramı](docs/database_diagram.png)
+![Veritabanı Diyagramı](diagram.png)
+![Veritabanı Diyagramı](diagram2.png)
 
-## Ekran Görüntüleri
-
-Proje arayüzüne ait bazı ekran görüntüleri:
-
-### Ana Sayfa
-![Ana Sayfa](docs/screenshot_home.png)
-
-### Şirket Bilgileri
-![Şirket Bilgileri](docs/screenshot_company.png)
-
-### Çalışan Bilgileri
-![Çalışan Bilgileri](docs/screenshot_employee.png)
-
-### Beyannameler
-![Beyannameler](docs/screenshot_declarations.png)
 
 
 
